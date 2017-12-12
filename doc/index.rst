@@ -9,6 +9,8 @@ code linting and more.
 Now I have added a file :code:`api.rst` to put the API in (ie the docstring from our code).
 I include it in the Sphinx build by simply adding it to the contents directly below.
 
+Examples done as part of the coding workshop: 12 Dec 2017
+
 Contents
 --------
 
