@@ -14,6 +14,7 @@ A small github repo used as an example for the coding workshop!
 To use this framework you will need to:
 
 
+
 1. Replace my email (suryashree@ymail.com) with your own.
 2. Replace all instances of suryashree & samuelreay, with your own username (case insensitive replace).
 3. Replace my name (Suryashree Aniyan) with yours (used in the doc and license).
